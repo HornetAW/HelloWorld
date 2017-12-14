@@ -1,2 +1,2 @@
 # HelloWorld
-Self-study repo
+Self-study repository.
